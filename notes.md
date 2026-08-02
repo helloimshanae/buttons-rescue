@@ -3,7 +3,7 @@
 1. The photo doesn't show.
 	- Hunch: HTML
 2. Everything after "Buttons has waited longer than any cat here" is bold.
-	- Hunch: HTML/css
+	- Hunch: HTML
 3. Clicking "Skip to how to adopt Buttons" doesn't move down the page.
 	- Hunch: HTML
 4. The "His story" area is plain instead of sitting inside a colored box.
