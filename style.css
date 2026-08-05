@@ -1,24 +1,21 @@
 body { 
 	background: #fff;
 	font-family: "Nunito", sans-serif; 
-	max-width: 900px; 
-	margin: 0 auto; 
-	padding: 20px}
+	margin: 0; 
+	padding: 20px;
+}
 	
 .container { 
 	max-width: 70rem;
 	margin: 0 auto;
-	border: solid;
-	border-width: 5px;
-	border-color: #5f554d;
+	border: 5px solid #5f554d;
 	padding: 20px;
 	text-align: center;
 	font-size: 18px; 
 }
 
 h1 {
-	font-size: 70px;
-	text-shadow: 2px, 2px;
+	font-size: 3.5rem;
 }
 
 .tagline {
@@ -34,18 +31,19 @@ h1 {
 }
 
 .photo {
-  width: 50%;
-  height: 520px;;
-  object-fit: fit;
+  width: 100%;
+  max-width: 500px;
+  height: 520px;
+  object-fit: cover;
   border-radius: 0.75rem;
-  border: solid;
+  border: 2px solid #5f554d;
 }
 
 .urgent {
   border-left: 0.5rem solid #b42318;
   background: #fff0ed;
   padding: 0.75rem 1rem;
-  font-size: 30px;
+  font-size: 1.5rem;
 }
 
 #how-to-adopt {
