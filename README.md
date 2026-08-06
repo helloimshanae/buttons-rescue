@@ -17,6 +17,7 @@ This is Buttons' adoption page for Marmalade Nook. When I first received the pro
 - Changed the tagline color under Buttons' name to improve readability.
 - Added text describing the missing photo area.
 - Added Buttons' adoption story to help visitors connect with him.
+- Included some optional page design elements to give it my personal touch.
 
 ## Credits
 
